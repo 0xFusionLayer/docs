@@ -84,10 +84,7 @@ These options make the node listen on all interfaces and accept external WebSock
 Connect WarpMiner to your node:
 
 ```bash
-./warpminer \
--user=username \
--pass=password \
--pool=ws://localhost:8546
+./warpminer -user=username -pass=password -pool=ws://localhost:8546
 ```
 
 ### Parameters
@@ -125,10 +122,7 @@ Pool mining connects directly to a mining pool instead of your own node.
 Example:
 
 ```bash
-./warpminer \
--user=YOUR_WALLET \
--pass=x \
--pool=stratum://pool_address
+./warpminer -user=YOUR_WALLET -pass=x -pool=stratum://pool_address
 ```
 
 Replace:
