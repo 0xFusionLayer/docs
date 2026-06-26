@@ -80,12 +80,7 @@ All ports are configurable.
 Example:
 
 ```bash
-./fxl \
-  --port 30303 \
-  --http \
-  --http.port 8545 \
-  --ws \
-  --ws.port 8546
+./fxl --port 30303 --http --http.port 8545 --ws --ws.port 8546
 ```
 
 You may replace these values with any available ports.
