@@ -42,7 +42,7 @@ Fill in the following fields:
 
 - **Installation URL:**
   ```
-  https://github.com/0xFusionLayer/WarpMiner-HiveOS/releases/download/v2.0.0/WarpMiner-HiveOS.tar.gz
+  https://github.com/0xFusionLayer/WarpMiner-HiveOS/releases/download/v2.0.0/warpminer.tar.gz
   ```
 
 - **Hash algorithm:**
