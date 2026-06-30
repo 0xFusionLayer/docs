@@ -6,6 +6,20 @@ This guide explains how to mine FXL using **WarpMiner**, covering both **Solo Mi
 
 # Prerequisites
 
+## Wallet
+
+To receive mining rewards, you'll need an FXL address.
+
+FusionLayer is EVM-compatible, so you can use **MetaMask** or any other Ethereum-compatible wallet.
+
+If you haven't added the FusionLayer network to your wallet yet, use the network configuration available at:
+
+https://fusionlayer.org/metamask/
+
+Once the network is added, create or import an account and use its address for mining rewards.
+
+---
+
 ## FXL Node (Solo Mining Only)
 
 Solo mining requires a running FusionLayer node.
