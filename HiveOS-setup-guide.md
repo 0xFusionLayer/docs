@@ -8,6 +8,8 @@ This guide will help you set up WarpMiner on HiveOS to mine FusionLayer (FXL).
 > - Your feedback is valuable and helps us improve the integration.
 
 ---
+![HiveOS Setup Guide](images/hiveos-setup.png)
+---
 
 ## Add FXL Wallet in HiveOS
 
