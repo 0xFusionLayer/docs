@@ -64,6 +64,11 @@ Fill in the following fields:
 
 ---
 
+**Solo Mining:** If you're mining directly to your own FusionLayer node, use:
+```
+ws://localhost:8546
+```
+
 ## Apply the Flight Sheet
 
 1. Save the Flight Sheet.
